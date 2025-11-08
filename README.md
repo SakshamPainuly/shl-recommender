@@ -1,3 +1,4 @@
+
 ## SHL Assessment Recommender (RAG)
 
 A lightweight Retrieval-Augmented tool that recommends SHL assessments from a catalog using a hybrid ranker (BM25 + Sentence Embeddings) with a simple Gradio web UI.
@@ -163,3 +164,7 @@ Markdown with top recommendations.
 ## Saksham Painuly
 
 Feel free to reach out or open an issue.
+=======
+# shl-recommender
+Web-based SHL assessment recommender using hybrid RAG (BM25 + Embeddings)
+>>>>>>> 451f0dfd3c8851cec81ebb670120501b0013f224
